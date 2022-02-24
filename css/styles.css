@@ -62,6 +62,7 @@ body {
 .page__section {
   padding: 30px 0;
   height: 100vh;
+  overflow: hidden;
 }
 
 .page__section--1 {
